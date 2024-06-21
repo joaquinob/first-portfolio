@@ -1,0 +1,15 @@
+/* styles.css */
+.btn-custom {
+  background-color: #f0f0f0; /* Color gris claro */
+  color: black; /* Color del texto */
+  border: none; /* Sin borde por defecto */
+  border-radius: 25px; /* Borde redondeado */
+}
+
+.btn-custom:hover {
+  background-color: #e0e0e0; /* Color gris claro más oscuro al pasar el ratón */
+}
+
+.btn-custom i {
+  color: black; /* Color de los iconos */
+}
